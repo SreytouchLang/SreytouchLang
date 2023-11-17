@@ -1,5 +1,4 @@
-### Hi there 👋
-# Sreytouch Lang (Jessica)
+# Sreytouch Lang
 ### <h1 align="center">Hi, I'm **Sreytouch Lang(Jessica)** </h1>
 
 ### <h3 align="center">A Software Engineer, iOS Developer - Swift and Programmer!! **[DevFolio][website]**</h3><br>
