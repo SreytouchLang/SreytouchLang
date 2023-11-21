@@ -46,7 +46,7 @@
 </p>
 
 
-[website]: https://sreytouch.github.io/
+[website]: https://sreytouchlang.github.io/
 
 
 <!--
