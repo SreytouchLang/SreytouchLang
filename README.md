@@ -4,7 +4,7 @@
 ### <h3 align="center">A Software Engineer, iOS Developer - Swift, React Native, Flutter Developer and Programmer!! **[DevFolio][website]**</h3><br>
 
 - Fun fact I love to make mobile application
-- I’m experienced with **iOS - Swift** **React Native**  and **android - Kotlin** ~ iOS/android App Development
+- I’m experienced with **iOS - Swift** - **React Native** - **Flutter**  and **android - Kotlin** ~ iOS/android App Development
 - Currently working on mobile application projects using MERN   **iOS - Swift** and **React Native**
 - All of my projects are available at my portfolio website: **[DevFolio][website]**
 
